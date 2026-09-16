@@ -1,10 +1,8 @@
 # EX 5D Flower Planting.
 
 ## DATE: 08.09.2026
-
-### Developed By: DHARSHINI S N 
-
-### Register Number: 212224230062
+# Name  : Srikaran M
+# Reg no: 212223040206
 
 ## AIM:
 
